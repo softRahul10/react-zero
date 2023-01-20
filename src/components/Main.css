@@ -1,0 +1,16 @@
+.app-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 1rem 0.5rem;
+}
+.main-container{
+    max-width: 800px;
+    margin: 1rem auto;
+    padding: 1rem;
+    background: #6f39bb;
+    border-radius: 1em;
+    color: #fff;
+}
