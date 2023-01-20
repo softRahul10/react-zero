@@ -8,7 +8,7 @@ function Header() {
                 <h3>Rahul Keshri</h3>
             </div>
             <div className="app-header-right">
-               <Logo/>
+               <Logo size="fix" />
             </div>
         </header>
     );

@@ -3,6 +3,7 @@ const size = {
     width:'50px',
     height:'50px',
     borderRadius:'50%',
+    border:'2px solid #eee'
 }
 const freeSize = {maxWidth:'100%',maxHeight:'100%'};
 
